@@ -3,7 +3,7 @@
 //  001.实验一.Swift类和子类
 //
 //  Created by student on 2018/12/15.
-//  Copyright © 2018年 001.实验一.Swift类和子类. All rights reserved.
+//  Copyright © 2018年 李潘. All rights reserved.
 //
 
 
